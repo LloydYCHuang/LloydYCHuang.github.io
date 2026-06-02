@@ -2,7 +2,7 @@
 layout: default
 title:  "About"
 ---   
-![image](https://drive.google.com/uc?export=view&id=1lbI7eFqkzlFXrK4juCg6eiaw-4fSvEiF)  
+<img src="https://lloydychuang.github.io/assets/cover1.jpg">  
 
 ## About Lloyd  
 <a href="https://lloydychuang.github.io/assets/site_CV.pdf" target="_blank">我的學術CV在這裡！</a>  
