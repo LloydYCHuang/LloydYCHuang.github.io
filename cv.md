@@ -7,7 +7,7 @@ title:  "CV"
 <a href="https://lloydychuang.github.io/assets/site_CV.pdf" target="_blank">A pdf file of CV is available here</a>  
 ## Education  
 **University of Sydney (USYD)**  
-*PhD Student (Oct. 2023 - now)*  
+*PhD Candidate (Oct. 2023 - now)*  
 - Advisor: Prof. Budiman Minasny
 - Fully funded by Postgraduate Research Scholarship in Soil Monitoring and USYD International Tuition Fee Scholarship
   
@@ -27,12 +27,23 @@ title:  "CV"
 -	Relevant courses: Physical Chemistry, Analytical Chemistry, Organic Chemistry, Soil Chemistry, Soil Morphology and Classification, Biochemistry, Plant Nutrition, and Molecular Biology
   
 ## Publications  
-*Refereed journals*  
+*First-author refereed journals*  
+- **Huang, Y. C.,** Padarian, J., Ng, W., Minasny, B., & McBratney, A. B. (2026). Zero-shot inference with Tabular Prior-data Fitted Network (TabPFN) for soil MIR spectral analysis. Geoderma, 471, 117880. <a href="https://doi.org/10.1016/j.geoderma.2026.117880" target="_blank">https://doi.org/10.1016/j.geoderma.2026.117880</a>
+- **Huang, Y. C.,** Ng, W., Minasny, B., Tang, Y., & McBratney, A. B. (2025). Accessible soil spectroscopy: Evaluating low-cost Vis-NIR spectrometers for resource-constrained environments. European Journal of Soil Science, 76, e70248. <a href="https://doi.org/10.1111/ejss.70248" target="_blank">https://doi.org/10.1111/ejss.70248</a>
+- **Huang, Y. C.,** Padarian, J., Minasny, B., & McBratney, A. B. (2025). Using Monte Carlo conformal prediction to evaluate the uncertainty of deep learning soil spectral models. SOIL, 11, 553-563. <a href="https://doi.org/10.5194/egusphere-2024-3703" target="_blank">https://doi.org/10.5194/egusphere-2024-3703</a>
+- **Huang, Y. C.,** Ng, W., Minasny, B., & McBratney, A. B. (2025). Characterising and quantifying soil clay-sized minerals using mid-infrared spectroscopy. Soil & Tillage Research, 252, 106590. <a href="https://doi.org/10.1016/j.still.2025.106590" target="_blank">https://doi.org/10.1016/j.still.2025.106590</a>
 - **Huang, Y. C.,** Huang, C. Y., Minasny. B., Chen, Z. S., & Hseu, Z. Y. (2023). Using pXRF and Vis-NIR for characterizing diagnostic horizons of fine-textured podzolic soils in subtropical forests. Geoderma, 437, 116582. <a href="https://doi.org/10.1016/j.geoderma.2023.116582" target="_blank">https://doi.org/10.1016/j.geoderma.2023.116582</a>
 - **Huang, Y. C.,** Chen, Z. S., Hsu, J. Y., Chiu, C. M., & Hseu, Z. Y. (2022). Differentiation of fine-textured podzolic soils controlled by climate and landscape in Taiwan. Geoderma, 428, 116155. <a href="https://doi.org/10.1016/j.geoderma.2022.116155" target="_blank">https://doi.org/10.1016/j.geoderma.2022.116155</a>  
 - **Huang, Y. C.,** & Hseu, Z. Y. (2021). Silicon availability in relation to soil properties in Inceptisols on uncultivated lands and paddy fields in Taiwan. Geoderma Regional, 26, e00406. <a href="https://doi.org/10.1016/j.geodrs.2021.e00406" target="_blank">https://doi.org/10.1016/j.geodrs.2021.e00406</a>  
   
+*Co-author refereed journals*
+- Tang, Y., Tran, T. K. A., Minasny, B., Bakhshandeh, S., Du, M., Francos, N., **Huang, Y. C.,** Jang, H. J., Ng, W., Xue, P., & McBratney, A. B. (2026). SOC stabilisation shifts from carbon accumulation in temperate soils to mineral association in subtropical soils. Soil Biology and Biochemistry, 215, 110101.
+- Swan, T., Jang, H. J., **Huang, Y. C.,** Fidelis, C., Yinil, D., Bala, B., Das, B. S., & Field, D. (2025). Comparative analysis of Vis-NIR and MIR spectroscopy for predicting soil properties and identifying minerals at smallholder cocoa farms across Papua New Guinea. Soil Advances, 5, 100094.
+- Minasny, B., Bandai, T., Ghezzehei T. A., **Huang, Y. C.,** Ma, Y., McBratney, A. B., Ng, W., Norouzi, S., Padarian, J., Rudiyanto, Sharififar, A., Styc, Q., & Widyastuti, M. (2024). Soil Science-Informed Machine Learning. Geoderma, 452, 117094.
+  
 *International conference publications*  
+- **Huang, Y. C.,** Padarian, J., Minasny, B., & McBratney, A. B. (2025). Evaluating the uncertainty of deep learning soil spectral models using Monte Carlo conformal prediction (MC-CP). Abstract Proceedings of EuroSoil 2025. European Confederation of Soil Science Societies. Seville, Spain. Sep. 8-12, 2025. (oral presentation)
+- **Huang, Y. C.,** Ng, W., Minasny, B., & McBratney, A. B. (2024). Characterizing soil clay minerals using mid-infrared spectroscopy. Abstract Proceedings of Centennial of the IUSS. International Union of Soil Science. Florence, Italy. May 19-21, 2024. (oral presentation)
 - **Huang, Y. C.,** Huang, C. Y., Minasny. B., Chen, Z. S., & Hseu, Z. Y. (2023). Characterizing diagnostic horizons of podzolic soils in Taiwan using pXRF and Vis-NIR. Abstract Proceedings of 4th Global Soil Security Conference. Korean Society of Soil Science and Fertilizer. Seoul, Korea. June 26-29, 2023 (oral presentation)
 - **Huang, Y. C.,** Huang, C. Y., Chen, Z. S., & Hseu, Z. Y. (2023). Using pXRF and Vis-NIR as an interpretable model to predict soil properties in podzolic soils of subtropical forest. Abstract Proceedings of 2nd joint Workshop of the IUSS Working Groups Digital Soil Mapping and Global Soil Map. International Union of Soil Science. Orléans, France. Feb. 7-9, 2023. (oral presentation)
 - **Huang, Y. C.,** Huang, C. Y., & Hseu, Z. Y. (2022). Characterization of podzolic soils using digital soil morphometrics in subtropical subalpine forests. Abstract Proceedings of 22<sup>nd</sup> World Congress of Soil Science. International Union of Soil Science. Glasgow, UK. July 31-Aug. 5, 2022. (oral presentation)  
