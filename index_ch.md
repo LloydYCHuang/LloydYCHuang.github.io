@@ -2,7 +2,7 @@
 layout: default
 title:  "嗨！我是Lloyd！"
 ---  
-![image](https://drive.google.com/uc?export=view&id=1YJlLbjGT_1JsY3ac1pIcpRgpcqzvl0K0)  
+<img src="https://lloydychuang.github.io/assets/cover1.jpg"> 
 
 ## 嗨！我是Lloyd！  
 我是黃胤中，是個正在博士班歷練過程中的科學家。  
