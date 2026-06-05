@@ -14,7 +14,8 @@ I study soil spectroscopy with a domain knowledge of machine learning and pedoge
   
 To date, I have published seven first-authored peer-reviewed papers. The most recent one is published in the journal Geoderma titled "<a href="https://doi.org/10.1016/j.geoderma.2026.117880" target="_blank">Zero-shot inference with Tabular Prior-data Fitted Network (TabPFN) for soil MIR spectral analysis</a>." We evaluated the application of a foundation model in the field of soil spectroscopy and found this algorithm acquired better results than PLSR, Cubist, and even convolutional neural network!  
    
-I am a dreamer and want to be a scientist. In my free time, I enjoy rock climbing and hiking. I am also a gamer who enjoys soulslike games. For more information, check out my CV and Research pages. You can also contact me through email (lloyd.yc.huang@sydney.edu.au).    
+I am a dreamer and want to be a scientist. In my free time, I enjoy rock climbing and hiking.  
+I am expecting to graduate early 2027 and am seeking postdococtoral opportunities. For more information, check out my CV and Research pages. You can also contact me through email (lloyd.yc.huang@sydney.edu.au).    
   
   
   
